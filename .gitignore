@@ -34,13 +34,3 @@ coverage
 /PAUTA_DOCENTE.md
 /EVIDENCIAS_PARCIAL.md
 /nest-parcial-estudiantes.zip
-
-
-node_modules/
-dist/
-coverage/
-.env
-.env.*
-!.env.example
-.DS_Store
-*.log
